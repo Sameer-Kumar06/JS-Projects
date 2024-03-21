@@ -1,1 +1,1 @@
-# A JavaScript project repo with 30+ projects
+# A JavaScript project repo
